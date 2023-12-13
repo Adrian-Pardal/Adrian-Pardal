@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
 - 🔭Fazendo Faculdade de Engenharia de Programação
 - 🌱 Estudando Programação
-- 😄 Pronouns: 
+- :school: Universidade de Vassouras
 <div style="display: inline_block"><br>
   <img align="center" alt="adrian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="adrian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
