@@ -13,7 +13,6 @@
   <img align="center" alt="adrian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="adrian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="adrian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img aling="center" alt="adrian-MySql"  height="30" width="40"   src="https://raw.githubsercontent.com/devicons/devicon/master/icons/MySQL/mysql-original.svg">
 </div>
 
 ##
